@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background: linear-gradient(aqua,aquamarine);
+    border-style: double;
+    border-color: black;
+}
+.line{
+width: 90px;
+    height: 10px;
+   background-color:maroon;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+#b{
+background: linear-gradient(
+orange,red
+)
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    color: blue;
+    text-shadow: none;
+    
+}
